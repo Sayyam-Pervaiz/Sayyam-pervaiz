@@ -1,4 +1,14 @@
-# 👋 Hi, I'm Sayyam Pervaiz
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&text=Sayyam%20Pervaiz&fontAlign=50&fontAlignY=40&color=gradient&animation=twinkling" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&pause=1000&color=00E5FF&center=true&vCenter=true&width=720&lines=Flutter+Developer;Backend+Integrations+%26+APIs;Real-time+Systems+%26+MQTT;Stripe+%2B+Supabase+Specialist;Clean+Architecture+Matters" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Sayyam-Perviaz&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+
+</div>
 
 📱 Flutter Developer | 🎨 UI/UX Designer  
 💳 Stripe • Supabase • Firebase  
